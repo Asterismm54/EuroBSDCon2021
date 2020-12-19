@@ -4,4 +4,4 @@ An annual BSD conference held in Europe!
 Please find our updated website here:
 https://2021.eurobsdcon.org/
 
-CFP opens on March 15, 2021!
+*CFP opens on March 15, 2021*
