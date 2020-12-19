@@ -1,5 +1,5 @@
 # EuroBSDCon2021
-An annual BSD conference held in Europe!
+The 2021 edition of the BSD conference held in Europe!
 
 Please find our updated website here:
 https://2021.eurobsdcon.org/
